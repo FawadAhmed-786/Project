@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.checkout-cont {
+    margin-left: 5%;
+    padding: 5%;
+    padding-bottom: 5%;
+}
+
+.sec-cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center ;
+
+    padding-bottom: 10%;
+}
